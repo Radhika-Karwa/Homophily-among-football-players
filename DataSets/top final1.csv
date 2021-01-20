@@ -1,0 +1,219 @@
+player_nationality,player_name,club_name,year,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,Min,Manager_name,nationality,match,count,win_percentage,average_points,practical,practical_periods
+Ireland,william smallbone,Arsenal FC,2019,Centre-Back,Saint-Étienne,£27.00m,in,Summer,27,393,Unai Emery,Spain,no,1,45.00%,1.65,0.50,0.166666667
+Brazil,martinelli,Arsenal FC,2019,Left Winger,Ituano,£6.03m,in,Summer,6.03,663,Unai Emery,Spain,no,1,45.00%,1.65,0.50,0.166666667
+Scottland,kieran tierney,Arsenal FC,2019,Left-Back,Celtic,£24.30m,in,Summer,24.3,989,Unai Emery,Spain,no,1,45.00%,1.65,0.50,0.166666667
+Ivory Coast,nicolas pepe,Arsenal FC,2019,Right Winger,LOSC Lille,£72.00m,in,Summer,72,2010,Unai Emery,Spain,no,1,45.00%,1.65,0.50,0.166666667
+Brazil,david luiz,Arsenal FC,2019,Centre-Back,Chelsea,£7.83m,in,Summer,7.83,2809,Unai Emery,Spain,no,1,45.00%,1.65,0.50,0.166666667
+Spain,dani ceballos,Arsenal FC,2019,Central Midfield,Real Madrid,Loan,in,Summer,0,1692,Unai Emery,Spain,yes,1,45.00%,1.65,0.50,0.166666667
+Portugal,diogo jota,Liverpool FC,2020,Left Winger,Wolves,£40.23m,in,Summer,40.23,2284,Jurgen Klopp,Germany,no,1,84.00%,2.61,0.03,0
+Japan,takumi minamino,Liverpool FC,2019,Left Winger,RB Salzburg,£7.65m,in,Winter,7.65,249,Jurgen Klopp,Germany,no,1,84.00%,2.61,0.03,0
+Spain,adrian,Liverpool FC,2019,Goalkeeper,West Ham,Free transfer,in,Summer,0,875,Jurgen Klopp,Germany,no,1,84.00%,2.61,0.03,0
+Switzerland,xherdan shaqiri,Liverpool FC,2018,Right Winger,Stoke City,£13.23m,in,Summer,13.23,1064,Jurgen Klopp,Germany,no,1,79.00%,2.55,0.03,0
+Guinea,naby keita,Liverpool FC,2018,Central Midfield,RB Leipzig,£54.00m,in,Summer,54,1390,Jurgen Klopp,Germany,no,1,79.00%,2.55,0.03,0
+Brazil,fabinho,Liverpool FC,2018,Defensive Midfield,Monaco,£40.50m,in,Summer,40.5,2018,Jurgen Klopp,Germany,no,1,79.00%,2.55,0.03,0
+Brazil,alisson,Liverpool FC,2018,Goalkeeper,AS Roma,£56.25m,in,Summer,56.25,3420,Jurgen Klopp,Germany,no,1,79.00%,2.55,0.03,0
+England,alex oxlade chamberlain,Liverpool FC,2017,Central Midfield,Arsenal,£34.20m,in,Summer,34.2,241,Jurgen Klopp,Germany,no,1,55.00%,1.97,0.03,0
+Netherlands,virgil van dijk,Liverpool FC,2017,Centre-Back,Southampton,£76.19m,in,Winter,76.19,994,Jurgen Klopp,Germany,no,1,55.00%,1.97,0.03,0
+Scottland,andrew robertson,Liverpool FC,2017,Left-Back,Hull City,£8.10m,in,Summer,8.1,1940,Jurgen Klopp,Germany,no,1,55.00%,1.97,0.03,0
+Egypt,mohamed salah,Liverpool FC,2017,Right Winger,AS Roma,£37.80m,in,Summer,37.8,2907,Jurgen Klopp,Germany,no,1,55.00%,1.97,0.03,0
+Esonia,ragnar klavan,Liverpool FC,2016,Centre-Back,FC Augsburg,£4.50m,in,Summer,4.5,1410,Jurgen Klopp,Germany,no,1,58.00%,2,0.03,0.25
+Senegal,sadio mane,Liverpool FC,2016,Left Winger,Southampton,£37.08m,in,Summer,37.08,2235,Jurgen Klopp,Germany,no,1,58.00%,2,0.03,0.25
+Netherlands,georginio wijnaldum,Liverpool FC,2016,Central Midfield,Newcastle,£24.75m,in,Summer,24.75,2972,Jurgen Klopp,Germany,no,1,58.00%,2,0.03,0.25
+Germany,loris karius,Liverpool FC,2016,Goalkeeper,1.FSV Mainz 05,£5.58m,in,Summer,5.58,900,Jurgen Klopp,Germany,yes,1,58.00%,2,0.03,0.25
+England,steven caulker,Liverpool FC,2015,Centre-Back,QPR,Loan,in,Winter,0,5,Jurgen Klopp,Germany,no,1,43.00%,1.6,0.03,0
+England,steven caulker,Liverpool FC,2015,Centre-Back,QPR,Loan,in,Winter,0,146,Jurgen Klopp,Germany,no,1,43.00%,1.6,0.03,0
+Hungeria,adam bogdan,Liverpool FC,2015,Goalkeeper,Bolton,Free transfer,in,Summer,0,180,Jurgen Klopp,Germany,no,1,43.00%,1.6,0.03,0
+England,danny ings,Liverpool FC,2015,Centre-Forward,Burnley,£7.47m,in,Summer,7.47,340,Jurgen Klopp,Germany,no,1,43.00%,1.6,0.03,0
+England,joe gomez,Liverpool FC,2015,Centre-Back,Charlton,£4.41m,in,Summer,4.41,437,Jurgen Klopp,Germany,no,1,43.00%,1.6,0.03,0
+Belgium,christian benteke,Liverpool FC,2015,Centre-Forward,Aston Villa,£41.85m,in,Summer,41.85,1529,Jurgen Klopp,Germany,no,1,43.00%,1.6,0.03,0
+Brazil,roberto firmino,Liverpool FC,2015,Centre-Forward,TSG Hoffenheim,£36.90m,in,Summer,36.9,1972,Jurgen Klopp,Germany,no,1,43.00%,1.6,0.03,0
+England,james milner,Liverpool FC,2015,Central Midfield,Man City,Free transfer,in,Summer,0,2409,Jurgen Klopp,Germany,no,1,43.00%,1.6,0.03,0
+Australua,marko arnautovic,Liverpool FC,2015,Central Midfield,Red Star,£6.30m,in,Winter,6.3,2807,Jurgen Klopp,Germany,no,1,43.00%,1.6,0.03,0
+England,nathaniel clyne,Liverpool FC,2015,Right-Back,Southampton,£15.93m,in,Summer,15.93,2970,Jurgen Klopp,Germany,no,1,43.00%,1.6,0.03,0
+Wales,ben davies,Manchester City,2020,Centre-Back,Benfica,£61.20m,in,Summer,61.2,1431,Pep Guardiola,Spain,no,1,68.00%,2.13,0.22,0.333333333
+Netherlands,nathan ake,Manchester City,2020,Centre-Back,Bournemouth,£40.77m,in,Summer,40.77,2503,Pep Guardiola,Spain,no,1,68.00%,2.13,0.22,0.333333333
+Spain,pablo mari,Manchester City,2020,Centre-Forward,Juventus U19,£9.00m,in,Summer,9,113,Pep Guardiola,Spain,yes,1,68.00%,2.13,0.22,0.333333333
+Portugal,joao cancelo,Manchester City,2019,Right-Back,Juventus,£58.50m,in,Summer,58.5,1208,Pep Guardiola,Spain,no,1,68.00%,2.13,0.22,0.4
+England,scott dann,Manchester City,2019,Goalkeeper,Derby,Loan,in,Summer,0,1266,Pep Guardiola,Spain,no,1,68.00%,2.13,0.22,0.4
+England,jack stephens,Manchester City,2019,Goalkeeper,Columbus Crew,£6.14m,in,Summer,6.14,2451,Pep Guardiola,Spain,no,1,68.00%,2.13,0.22,0.4
+Spain,angelino,Manchester City,2019,Left-Back,PSV Eindhoven,£10.80m,in,Summer,10.8,423,Pep Guardiola,Spain,yes,1,68.00%,2.13,0.22,0.4
+Spain,rodri,Manchester City,2019,Defensive Midfield,Atlético Madrid,£63.00m,in,Summer,63,2486,Pep Guardiola,Spain,yes,1,68.00%,2.13,0.22,0.4
+Algeria,riyad mahrez,Manchester City,2018,Right Winger,Leicester,£61.02m,in,Summer,61.02,1343,Pep Guardiola,Spain,no,1,84.00%,2.58,0.22,0
+England,jack simpson,Manchester City,2017,Left Winger,NYCFC,£3.60m,in,Winter,3.6,71,Pep Guardiola,Spain,no,1,84.00%,2.63,0.22,0
+France,benjamin mendy,Manchester City,2017,Left-Back,Monaco,£51.75m,in,Summer,51.75,363,Pep Guardiola,Spain,no,1,84.00%,2.63,0.22,0
+France,aymeric laporte,Manchester City,2017,Centre-Back,Athletic,£58.50m,in,Winter,58.5,806,Pep Guardiola,Spain,no,1,84.00%,2.63,0.22,0
+Brazil,danilo,Manchester City,2017,Right-Back,Real Madrid,£27.00m,in,Summer,27,1349,Pep Guardiola,Spain,no,1,84.00%,2.63,0.22,0
+Portugal,bernardo silva,Manchester City,2017,Right Winger,Monaco,£45.00m,in,Summer,45,1533,Pep Guardiola,Spain,no,1,84.00%,2.63,0.22,0
+England,kyle walker,Manchester City,2017,Right-Back,Spurs,£47.43m,in,Summer,47.43,2785,Pep Guardiola,Spain,no,1,84.00%,2.63,0.22,0
+Serbia,luka milivojevic,Manchester City,2017,Attacking Midfield,Red Star,£2.25m,in,Summer,2.25,3080,Pep Guardiola,Spain,no,1,84.00%,2.63,0.22,0
+Brazil,ederson,Manchester City,2017,Goalkeeper,Benfica,£36.00m,in,Summer,36,3194,Pep Guardiola,Spain,no,1,84.00%,2.63,0.22,0
+Brazil,gabriel jesus,Manchester City,2016,Centre-Forward,Palmeiras,£28.80m,in,Winter,28.8,650,Pep Guardiola,Spain,no,1,61.00%,2.05,0.22,0.5
+Germany,ilkay gundogan,Manchester City,2016,Central Midfield,Bor. Dortmund,£24.30m,in,Summer,24.3,704,Pep Guardiola,Spain,no,1,61.00%,2.05,0.22,0.285714286
+Wales,aaron ramsey,Manchester City,2016,Central Midfield,Melbourne City,Free transfer,in,Summer,0,1236,Pep Guardiola,Spain,no,1,61.00%,2.05,0.22,0.285714286
+Germany,leroy sane,Manchester City,2016,Left Winger,FC Schalke 04,£46.80m,in,Summer,46.8,1781,Pep Guardiola,Spain,no,1,61.00%,2.05,0.22,0.285714286
+Chile,claudio bravo,Manchester City,2016,Goalkeeper,FC Barcelona,£16.20m,in,Summer,16.2,1968,Pep Guardiola,Spain,no,1,61.00%,2.05,0.22,0.285714286
+England,john stones,Manchester City,2016,Centre-Back,Everton,£50.04m,in,Summer,50.04,2014,Pep Guardiola,Spain,no,1,61.00%,2.05,0.22,0.285714286
+Spain,alberto moreno,Manchester City,2016,Left Winger,Atl. Nacional,£4.95m,in,Summer,4.95,305,Pep Guardiola,Spain,yes,1,61.00%,2.05,0.22,0.285714286
+Spain,ander herrera,Manchester City,2016,Defensive Midfield,Atl. Venezuela,?,in,Winter,,2464,Pep Guardiola,Spain,yes,1,61.00%,2.05,0.22,0.5
+Spain,nolito,Manchester City,2016,Left Winger,Celta de Vigo,£16.20m,in,Summer,16.2,778,Pep Guardiola,Spain,yes,1,61.00%,2.05,0.22,0.285714286
+France,matteo guendouzi,Arsenal FC,2018,Central Midfield,FC Lorient,£7.20m,in,Summer,7.2,2149,Unai Emery,Spain,no,1,55.00%,1.84,0.50,0
+Uruguay,lucas torreira,Arsenal FC,2018,Defensive Midfield,Sampdoria,£25.79m,in,Summer,25.79,2382,Unai Emery,Spain,no,1,55.00%,1.84,0.50,0
+Germany,bernd leno,Arsenal FC,2018,Goalkeeper,Bay. Leverkusen,£22.50m,in,Summer,22.5,2836,Unai Emery,Spain,no,1,55.00%,1.84,0.50,0
+Spain,denis suarez,Arsenal FC,2018,Attacking Midfield,FC Barcelona,Loan fee:£2.25m,in,Winter,2.25,71,Unai Emery,Spain,yes,1,55.00%,1.84,0.50,1
+Greece,konstantinos mavropanos,Arsenal FC,2017,Centre-Back,PAS Giannina,£1.89m,in,Winter,1.89,195,Arsene Wenger,France,no,1,50.00%,1.66,0.23,0
+Armenia,henrikh mkhitaryan,Arsenal FC,2017,Attacking Midfield,Man Utd,£30.60m,in,Winter,0,922,Arsene Wenger,France,no,1,50.00%,1.66,0.23,0
+Gabon,pierre emerick aubameyang,Arsenal FC,2017,Centre-Forward,Bor. Dortmund,£57.38m,in,Winter,57.38,1057,Arsene Wenger,France,no,1,50.00%,1.66,0.23,0
+Bosnia,sead kolasinac,Arsenal FC,2017,Left-Back,FC Schalke 04,Free transfer,in,Summer,0,2147,Arsene Wenger,France,no,1,50.00%,1.66,0.23,0.5
+France,alexandre lacazette,Arsenal FC,2017,Centre-Forward,Olympique Lyon,£47.70m,in,Summer,47.7,2202,Arsene Wenger,France,yes,1,50.00%,1.66,0.23,0.5
+Spain,lucas perez,Arsenal FC,2016,Centre-Forward,Dep. La Coruña,£18.00m,in,Summer,18,272,Arsene Wenger,France,no,1,61.00%,1.97,0.23,0
+England,rob holding,Arsenal FC,2016,Centre-Back,Bolton,£2.70m,in,Summer,2.7,810,Arsene Wenger,France,no,1,61.00%,1.97,0.23,0
+Germany,shkodran mustafi,Arsenal FC,2016,Centre-Back,Valencia,£36.90m,in,Summer,36.9,2274,Arsene Wenger,France,no,1,61.00%,1.97,0.23,0
+Switzerland,granit xhaka,Arsenal FC,2016,Defensive Midfield,Bor. M'gladbach,£40.50m,in,Summer,40.5,2485,Arsene Wenger,France,no,1,61.00%,1.97,0.23,0
+Egypt,mohamed elneny,Arsenal FC,2015,Defensive Midfield,FC Basel,£11.25m,in,Winter,11.25,792,Arsene Wenger,France,no,1,53.00%,1.87,0.23,0
+Czech Republic,petr cech,Arsenal FC,2015,Goalkeeper,Chelsea,£12.60m,in,Summer,12.6,3060,Arsene Wenger,France,no,1,53.00%,1.87,0.23,0
+Brazil,gabriel paulista,Arsenal FC,2014,Centre-Back,Villarreal,£13.50m,in,Winter,13.5,350,Arsene Wenger,France,no,1,58.00%,1.97,0.23,0
+Spain,hector bellerin,Arsenal FC,2014,Right-Back,Arsenal U21,-,in,Summer,0,1563,Arsene Wenger,France,no,1,58.00%,1.97,0.23,0.166666667
+England,calum chambers,Arsenal FC,2014,Centre-Back,Southampton,£18.21m,in,Summer,18.21,1573,Arsene Wenger,France,no,1,58.00%,1.97,0.23,0.166666667
+Columbia,david ospina,Arsenal FC,2014,Goalkeeper,OGC Nice,£3.60m,in,Summer,3.6,1620,Arsene Wenger,France,no,1,58.00%,1.97,0.23,0.166666667
+England,danny welbeck,Arsenal FC,2014,Centre-Forward,Man Utd,£18.00m,in,Summer,18,1663,Arsene Wenger,France,no,1,58.00%,1.97,0.23,0.166666667
+Chile,alexis sanchez,Arsenal FC,2014,Centre-Forward,FC Barcelona,£38.25m,in,Summer,38.25,2942,Arsene Wenger,France,no,1,58.00%,1.97,0.23,0.166666667
+France,mathieu debuchy,Arsenal FC,2014,Right-Back,Newcastle,£13.50m,in,Summer,13.5,805,Arsene Wenger,France,yes,1,58.00%,1.97,0.23,0.166666667
+Sweden,kim kallstrom,Arsenal FC,2013,Central Midfield,Spartak Moscow,Loan fee:£675Th.,in,Winter,0.675,130,Arsene Wenger,France,no,1,63.00%,2.08,0.23,0
+Germany,mesut ozil,Arsenal FC,2013,Attacking Midfield,Real Madrid,£42.30m,in,Summer,42.3,2140,Arsene Wenger,France,no,1,63.00%,2.08,0.23,0.666666667
+France,mathieu flamini,Arsenal FC,2013,Defensive Midfield,AC Milan,Free transfer,in,Summer,0,1667,Arsene Wenger,France,yes,1,63.00%,2.08,0.23,0.666666667
+France,yaya sanogo,Arsenal FC,2013,Centre-Forward,AJ Auxerre,Free transfer,in,Summer,0,79,Arsene Wenger,France,yes,1,63.00%,2.08,0.23,0.666666667
+Spain,nacho monreal,Arsenal FC,2012,Left-Back,Málaga CF,£9.00m,in,Winter,9,791,Arsene Wenger,France,no,1,55.00%,1.92,0.23,0
+England,jordan henderson,Arsenal FC,2012,Central Midfield,Arsenal U21,-,in,Summer,0,1535,Arsene Wenger,France,no,1,55.00%,1.92,0.23,0.25
+Germany,lukas podolski,Arsenal FC,2012,Second Striker,1. FC Köln,£13.50m,in,Summer,13.5,1985,Arsene Wenger,France,no,1,55.00%,1.92,0.23,0.25
+Spain,santi cazorla,Arsenal FC,2012,Central Midfield,Málaga CF,£17.10m,in,Summer,17.1,3297,Arsene Wenger,France,no,1,55.00%,1.92,0.23,0.25
+France,olivier giroud,Arsenal FC,2012,Centre-Forward,Montpellier,£10.80m,in,Summer,10.8,2333,Arsene Wenger,France,yes,1,55.00%,1.92,0.23,0.25
+Spain,ignasi miquel,Arsenal FC,2011,Centre-Back,Arsenal Res.,-,in,Summer,0,219,Arsene Wenger,France,no,1,55.00%,1.84,0.23,0.090909091
+Ghana,emmanuel frimpong,Arsenal FC,2011,Defensive Midfield,Arsenal Res.,-,in,Summer,0,287,Arsene Wenger,France,no,1,55.00%,1.84,0.23,0.090909091
+England,dj campbell,Arsenal FC,2011,Right Winger,Saprissa,£900Th.,in,Summer,0.9,328,Arsene Wenger,France,no,1,55.00%,1.84,0.23,0.090909091
+England,carl jenkinson,Arsenal FC,2011,Right-Back,Charlton,£1.01m,in,Summer,1.01,499,Arsene Wenger,France,no,1,55.00%,1.84,0.23,0.090909091
+England,alex oxlade chamberlain,Arsenal FC,2011,Central Midfield,Southampton,£12.42m,in,Summer,12.42,551,Arsene Wenger,France,no,1,55.00%,1.84,0.23,0.090909091
+Israel,yossi benayoun,Arsenal FC,2011,Right Winger,Chelsea,Loan,in,Summer,0,904,Arsene Wenger,France,no,1,55.00%,1.84,0.23,0.090909091
+Brazil,andre santos,Arsenal FC,2011,Attacking Midfield,Fenerbahce,£6.30m,in,Summer,6.3,1017,Arsene Wenger,France,no,1,55.00%,1.84,0.23,0.090909091
+Ivory Coast,gervinho,Arsenal FC,2011,Left Winger,LOSC Lille,£10.80m,in,Summer,10.8,1679,Arsene Wenger,France,no,1,55.00%,1.84,0.23,0.090909091
+Germany,per mertesacker,Arsenal FC,2011,Centre-Back,Werder Bremen,£10.17m,in,Summer,10.17,1826,Arsene Wenger,France,no,1,55.00%,1.84,0.23,0.090909091
+Spain,mikel arteta,Arsenal FC,2011,Central Midfield,Everton,£10.80m,in,Summer,10.8,2470,Arsene Wenger,France,no,1,55.00%,1.84,0.23,0.090909091
+France,francis coquelin,Arsenal FC,2011,Defensive Midfield,Arsenal Res.,-,in,Summer,0,634,Arsene Wenger,France,yes,1,55.00%,1.84,0.23,0.090909091
+France,thierry henry,Arsenal FC,2011,Centre-Forward,NY Red Bulls,Loan,in,Winter,0,98,Arsene Wenger,France,yes,1,55.00%,1.84,0.23,1
+Germany,jens lehmann,Arsenal FC,2010,Goalkeeper,Career break,-,in,Winter,0,90,Arsene Wenger,France,no,1,50.00%,1.79,0.23,0
+Morocco,marouane chamakh,Arsenal FC,2010,Centre-Forward,G. Bordeaux,Free transfer,in,Summer,0,1845,Arsene Wenger,France,no,1,50.00%,1.79,0.23,0.666666667
+France,laurent koscielny,Arsenal FC,2010,Centre-Back,FC Lorient,£11.25m,in,Summer,11.25,2617,Arsene Wenger,France,yes,1,50.00%,1.79,0.23,0.666666667
+France,sebastien squillaci,Arsenal FC,2010,Centre-Back,Sevilla FC,£5.85m,in,Summer,5.85,1820,Arsene Wenger,France,yes,1,50.00%,1.79,0.23,0.666666667
+England,sol campbell,Arsenal FC,2009,Centre-Back,Without Club,-,in,Winter,0,956,Arsene Wenger,France,no,1,61.00%,1.97,0.23,0
+Belgium,thomas vermaelen,Arsenal FC,2009,Centre-Back,Ajax,£10.80m,in,Summer,10.8,2797,Arsene Wenger,France,no,1,61.00%,1.97,0.23,0
+Wales,aaron ramsey,Arsenal FC,2008,Central Midfield,Cardiff,£5.76m,in,Summer,5.76,230,Arsene Wenger,France,no,1,53.00%,1.89,0.23,0.75
+Russia,andrey arshavin,Arsenal FC,2008,Second Striker,Zenit S-Pb,£14.85m,in,Winter,14.85,993,Arsene Wenger,France,no,1,53.00%,1.89,0.23,0
+France,amaury bischoff,Arsenal FC,2008,Central Midfield,W. Bremen II,£270Th.,in,Summer,0.27,27,Arsene Wenger,France,yes,1,53.00%,1.89,0.23,0.75
+France,mikael silvestre,Arsenal FC,2008,Centre-Back,Man Utd,£855Th.,in,Summer,0.855,1092,Arsene Wenger,France,yes,1,53.00%,1.89,0.23,0.75
+France,samir nasri,Arsenal FC,2008,Attacking Midfield,Marseille,£14.40m,in,Summer,14.4,2397,Arsene Wenger,France,yes,1,53.00%,1.89,0.23,0.75
+Poland,lukasz fabianski,Arsenal FC,2007,Goalkeeper,Legia Warszawa,£3.92m,in,Summer,3.92,248,Arsene Wenger,France,no,1,63.00%,2.18,0.23,0.5
+Denmark,nicklas bendtner,Arsenal FC,2007,Centre-Forward,Arsenal Res.,-,in,Summer,0,947,Arsene Wenger,France,no,1,63.00%,2.18,0.23,0.5
+France,bacary sagna,Arsenal FC,2007,Right-Back,AJ Auxerre,£8.10m,in,Summer,8.1,2458,Arsene Wenger,France,yes,1,63.00%,2.18,0.23,0.5
+France,lassana diarra,Arsenal FC,2007,Defensive Midfield,Chelsea,£2.61m,in,Summer,2.61,1001,Arsene Wenger,France,yes,1,63.00%,2.18,0.23,0.5
+Brazil,denilson,Arsenal FC,2006,Defensive Midfield,São Paulo,£4.50m,in,Summer,4.5,383,Arsene Wenger,France,no,1,50.00%,1.79,0.23,0.25
+Brazil,julio baptista,Arsenal FC,2006,Attacking Midfield,Real Madrid,Loan,in,Summer,0,1131,Arsene Wenger,France,no,1,50.00%,1.79,0.23,0.25
+Czech Republic,tomas rosicky,Arsenal FC,2006,Attacking Midfield,Bor. Dortmund,£9.00m,in,Summer,9,1836,Arsene Wenger,France,no,1,50.00%,1.79,0.23,0.25
+France,william gallas,Arsenal FC,2006,Centre-Back,Chelsea,Free transfer,in,Summer,0,1881,Arsene Wenger,France,yes,1,50.00%,1.79,0.23,0.25
+Cameroon,alex song,Arsenal FC,2005,Defensive Midfield,SC Bastia,£3.60m,in,Summer,3.6,254,Arsene Wenger,France,no,1,53.00%,1.76,0.23,0
+Togo,emmanuel adebayor,Arsenal FC,2005,Centre-Forward,Monaco,£9.00m,in,Winter,9,1005,Arsene Wenger,France,no,1,53.00%,1.76,0.23,0.5
+Belarus,alexander hleb,Arsenal FC,2005,Attacking Midfield,VfB Stuttgart,£13.50m,in,Summer,13.5,1480,Arsene Wenger,France,no,1,53.00%,1.76,0.23,0
+France,abou diaby,Arsenal FC,2005,Central Midfield,AJ Auxerre,£2.70m,in,Winter,2.7,796,Arsene Wenger,France,yes,1,53.00%,1.76,0.23,0.5
+Ivory Coast,emmanuel eboue,Arsenal FC,2004,Right-Back,KSK Beveren,£1.98m,in,Winter,1.98,15,Arsene Wenger,France,no,1,66.00%,2.18,0.23,0
+Spain,manuel almunia,Arsenal FC,2004,Goalkeeper,Celta de Vigo,£4.50m,in,Summer,4.5,900,Arsene Wenger,France,no,1,66.00%,2.18,0.23,0.333333333
+Netherlands,robin van persie,Arsenal FC,2004,Centre-Forward,Feyenoord,£4.05m,in,Summer,4.05,990,Arsene Wenger,France,no,1,66.00%,2.18,0.23,0.333333333
+France,mathieu flamini,Arsenal FC,2004,Defensive Midfield,Marseille,£432Th.,in,Summer,0.432,951,Arsene Wenger,France,yes,1,66.00%,2.18,0.23,0.333333333
+Spain,jose antonio reyes,Arsenal FC,2003,Right Winger,Sevilla FC,£18.00m,in,Winter,18,655,Arsene Wenger,France,no,1,68.00%,2.37,0.23,0
+Germany,jens lehmann,Arsenal FC,2003,Goalkeeper,Bor. Dortmund,£3.15m,in,Summer,3.15,3420,Arsene Wenger,France,no,1,68.00%,2.37,0.23,0.5
+France,gael clichy,Arsenal FC,2003,Left-Back,Cannes,£338Th.,in,Summer,0.338,657,Arsene Wenger,France,yes,1,68.00%,2.37,0.23,0.5
+Sweden,rami shaaban,Arsenal FC,2002,Goalkeeper,Djurgarden,?,in,Summer,,223,Arsene Wenger,France,no,1,61.00%,2.05,0.23,0.333333333
+Brazil,gilberto silva,Arsenal FC,2002,Defensive Midfield,Atlético-MG,£6.21m,in,Summer,6.21,3017,Arsene Wenger,France,no,1,61.00%,2.05,0.23,0.333333333
+France,pascal cygan,Arsenal FC,2002,Centre-Back,LOSC Lille,£3.44m,in,Summer,3.44,1429,Arsene Wenger,France,yes,1,61.00%,2.05,0.23,0.333333333
+Brazil,edu gaspar,Arsenal FC,2001,Central Midfield,Corinthians,£7.88m,in,Winter,7.88,696,Arsene Wenger,France,no,1,68.00%,2.29,0.23,0
+England,richard wright,Arsenal FC,2001,Goalkeeper,Ipswich,£8.10m,in,Summer,8.1,1073,Arsene Wenger,France,no,1,68.00%,2.29,0.23,0
+Netherlands,giovanni van bronckhorst,Arsenal FC,2001,Left-Back,Rangers,£12.15m,in,Summer,12.15,1289,Arsene Wenger,France,no,1,68.00%,2.29,0.23,0
+England,sol campbell,Arsenal FC,2001,Centre-Back,Spurs,Free transfer,in,Summer,0,2624,Arsene Wenger,France,no,1,68.00%,2.29,0.23,0
+Lithuania,tomas danilevicius,Arsenal FC,2000,Centre-Forward,Lausanne-Sport,£1.35m,in,Summer,1.35,37,Arsene Wenger,France,no,1,53.00%,1.84,0.23,0.5
+England,francis jeffers,Arsenal FC,2000,Centre-Forward,Everton,£13.77m,in,Summer,13.77,891,Arsene Wenger,France,no,1,53.00%,1.84,0.23,0.5
+Cameroon,lauren,Arsenal FC,2000,Right-Back,RCD Mallorca,£9.63m,in,Summer,9.63,1227,Arsene Wenger,France,no,1,53.00%,1.84,0.23,0.5
+France,igors stepanovs,Arsenal FC,2000,Centre-Back,Skonto Riga,£1.35m,in,Summer,1.35,810,Arsene Wenger,France,yes,1,53.00%,1.84,0.23,0.5
+France,robert pires,Arsenal FC,2000,Left Midfield,Marseille,£8.82m,in,Summer,8.82,2489,Arsene Wenger,France,yes,1,53.00%,1.84,0.23,0.5
+France,sylvain wiltord,Arsenal FC,2000,Second Striker,G. Bordeaux,£15.75m,in,Summer,15.75,1756,Arsene Wenger,France,yes,1,53.00%,1.84,0.23,0.5
+England,ashley cole,Arsenal FC,1999,Left-Back,Arsenal Res.,-,in,Summer,0,90,Arsene Wenger,France,no,1,58.00%,1.92,0.23,0.166666667
+Germany,stefan malz,Arsenal FC,1999,Left-Back,1860 Munich,£1.04m,in,Summer,1.04,245,Arsene Wenger,France,no,1,58.00%,1.92,0.23,0.166666667
+Croatia,davor suker,Arsenal FC,1999,Centre-Forward,Real Madrid,£4.86m,in,Summer,4.86,967,Arsene Wenger,France,no,1,58.00%,1.92,0.23,0.166666667
+Ukraine,oleh luzhny,Arsenal FC,1999,Right-Back,Dynamo Kyiv,£2.48m,in,Summer,2.48,1508,Arsene Wenger,France,no,1,58.00%,1.92,0.23,0.166666667
+Brazil,sylvinho,Arsenal FC,1999,Left-Back,Corinthians,Free transfer,in,Summer,0,2177,Arsene Wenger,France,no,1,58.00%,1.92,0.23,0.166666667
+France,thierry henry,Arsenal FC,1999,Centre-Forward,Juventus,£14.49m,in,Summer,14.49,2252,Arsene Wenger,France,yes,1,58.00%,1.92,0.23,0.166666667
+Guinea,kaba diawara,Arsenal FC,1998,Centre-Forward,G. Bordeaux,£2.70m,in,Winter,2.7,313,Arsene Wenger,France,no,1,58.00%,2.05,0.23,0
+Nigeria,nwankwo kanu,Arsenal FC,1998,Centre-Forward,Inter,£5.63m,in,Winter,5.63,542,Arsene Wenger,France,no,1,58.00%,2.05,0.23,0
+Sweden,freddie ljungberg,Arsenal FC,1998,Attacking Midfield,Halmstad,£4.05m,in,Summer,4.05,888,Arsene Wenger,France,no,1,58.00%,2.05,0.23,0.666666667
+France,david grondin,Arsenal FC,1998,Left-Back,Saint-Étienne,?,in,Summer,,90,Arsene Wenger,France,yes,1,58.00%,2.05,0.23,0.666666667
+France,nelson vivas,Arsenal FC,1998,Right-Back,FC Lugano,£1.98m,in,Summer,1.98,1144,Arsene Wenger,France,yes,1,58.00%,2.05,0.23,0.666666667
+Portugal,luis boa morte,Arsenal FC,1997,Left Midfield,Sporting CP,£2.16m,in,Summer,2.16,430,Arsene Wenger,France,no,1,61.00%,2.05,0.23,0.285714286
+England,matthew upson,Arsenal FC,1997,Centre-Back,Luton,£2.52m,in,Summer,2.52,434,Arsene Wenger,France,no,1,61.00%,2.05,0.23,0.285714286
+Australua,alex manninger,Arsenal FC,1997,Goalkeeper,Grazer AK,£1.31m,in,Summer,1.31,630,Arsene Wenger,France,no,1,61.00%,2.05,0.23,0.285714286
+Liberia,christopher wreh,Arsenal FC,1997,Centre-Forward,Guingamp,?,in,Summer,,702,Arsene Wenger,France,no,1,61.00%,2.05,0.23,0.285714286
+Netherlands,marc overmars,Arsenal FC,1997,Left Winger,Ajax,£6.75m,in,Summer,6.75,2668,Arsene Wenger,France,no,1,61.00%,2.05,0.23,0.285714286
+France,emmanuel petit,Arsenal FC,1997,Defensive Midfield,Monaco,£3.38m,in,Summer,3.38,2721,Arsene Wenger,France,yes,1,61.00%,2.05,0.23,0.285714286
+France,gilles grimandi,Arsenal FC,1997,Defensive Midfield,Monaco,£3.38m,in,Summer,3.38,1581,Arsene Wenger,France,yes,1,61.00%,2.05,0.23,0.285714286
+England,nick powell,Manchester United,2012,Attacking Midfield,Crewe Alexandra,£6.75m,in,Summer,6.75,32,Sir Alex Ferguson,Scottland,no,1,74.00%,2.34,0.04,0
+Netherlands,alexander buttner,Manchester United,2012,Left-Back,Vitesse,£4.50m,in,Summer,4.5,383,Sir Alex Ferguson,Scottland,no,1,74.00%,2.34,0.04,0
+Japan,shinji kagawa,Manchester United,2012,Attacking Midfield,Bor. Dortmund,£14.40m,in,Summer,14.4,1314,Sir Alex Ferguson,Scottland,no,1,74.00%,2.34,0.04,0
+Netherlands,robin van persie,Manchester United,2012,Centre-Forward,Arsenal,£27.63m,in,Summer,27.63,3123,Sir Alex Ferguson,Scottland,no,1,74.00%,2.34,0.04,0
+England,paul scholes,Manchester United,2011,Central Midfield,Career break,-,in,Winter,0,1163,Sir Alex Ferguson,Scottland,no,1,74.00%,2.34,0.04,0
+England,ashley young,Manchester United,2011,Left Midfield,Aston Villa,£16.20m,in,Summer,16.2,1565,Sir Alex Ferguson,Scottland,no,1,74.00%,2.34,0.04,0
+England,phil jones,Manchester United,2011,Centre-Back,Blackburn,£17.37m,in,Summer,17.37,2125,Sir Alex Ferguson,Scottland,no,1,74.00%,2.34,0.04,0
+Spain,david de gea,Manchester United,2011,Goalkeeper,Atlético Madrid,£22.50m,in,Summer,22.5,2610,Sir Alex Ferguson,Scottland,no,1,74.00%,2.34,0.04,0
+Portugal,bebe,Manchester United,2010,Left Winger,Vit. Guimarães,£7.92m,in,Summer,7.92,75,Sir Alex Ferguson,Scottland,no,1,61.00%,2.11,0.04,0
+England,chris smalling,Manchester United,2010,Centre-Back,Fulham,£7.20m,in,Summer,7.2,1086,Sir Alex Ferguson,Scottland,no,1,61.00%,2.11,0.04,0
+Senegal,mame biram diouf,Manchester United,2009,Centre-Forward,Molde,£4.05m,in,Summer,4.05,94,Sir Alex Ferguson,Scottland,no,1,71.00%,2.24,0.04,0
+France,gabriel obertan,Manchester United,2009,Attacking Midfield,G. Bordeaux,£3.60m,in,Summer,3.6,170,Sir Alex Ferguson,Scottland,no,1,71.00%,2.24,0.04,0
+England,michael owen,Manchester United,2009,Centre-Forward,Newcastle,Free transfer,in,Summer,0,602,Sir Alex Ferguson,Scottland,no,1,71.00%,2.24,0.04,0
+Ecuador,antonio valencia,Manchester United,2009,Right-Back,Wigan,£16.92m,in,Summer,16.92,2613,Sir Alex Ferguson,Scottland,no,1,71.00%,2.24,0.04,0
+Serbia,zoran tosic,Manchester United,2008,Right Winger,Partizan,£6.30m,in,Winter,6.3,18,Sir Alex Ferguson,Scottland,no,1,74.00%,2.37,0.04,0
+Belgium,ritchie de laet,Manchester United,2008,Right-Back,Stoke City,£225Th.,in,Winter,0.225,78,Sir Alex Ferguson,Scottland,no,1,74.00%,2.37,0.04,0
+Bulgeria,dimitar berbatov,Manchester United,2008,Centre-Forward,Spurs,£34.20m,in,Summer,34.2,2538,Sir Alex Ferguson,Scottland,no,1,74.00%,2.37,0.04,0
+Poland,tomasz kuszczak,Manchester United,2007,Goalkeeper,West Brom,£3.87m,in,Summer,3.87,765,Sir Alex Ferguson,Scottland,no,1,71.00%,2.29,0.04,0
+Brazil,anderson,Manchester United,2007,Central Midfield,FC Porto,£28.35m,in,Summer,28.35,1484,Sir Alex Ferguson,Scottland,no,1,71.00%,2.29,0.04,0
+England,owen hargreaves,Manchester United,2007,Defensive Midfield,Bayern Munich,£22.50m,in,Summer,22.5,1528,Sir Alex Ferguson,Scottland,no,1,71.00%,2.29,0.04,0
+Portugal,nani,Manchester United,2007,Left Winger,Sporting CP,£22.95m,in,Summer,22.95,1573,Sir Alex Ferguson,Scottland,no,1,71.00%,2.29,0.04,0
+Argentina ,carlos tevez,Manchester United,2007,Second Striker,West Ham,Loan fee:£11.43m,in,Summer,11.43,2676,Sir Alex Ferguson,Scottland,no,1,71.00%,2.29,0.04,0
+Sweden,henrik larsson,Manchester United,2006,Centre-Forward,Helsingborg,Loan,in,Winter,0,460,Sir Alex Ferguson,Scottland,no,1,74.00%,2.34,0.04,0
+Poland,tomasz kuszczak,Manchester United,2006,Goalkeeper,West Brom,Loan,in,Summer,0,540,Sir Alex Ferguson,Scottland,no,1,74.00%,2.34,0.04,0
+England,michael carrick,Manchester United,2006,Defensive Midfield,Spurs,£24.48m,in,Summer,24.48,2511,Sir Alex Ferguson,Scottland,no,1,74.00%,2.34,0.04,0
+France,patrice evra,Manchester United,2005,Left-Back,Monaco,£7.20m,in,Winter,7.2,571,Sir Alex Ferguson,Scottland,no,1,66.00%,2.18,0.04,0
+Serbia,nemanja vidic,Manchester United,2005,Centre-Back,Spartak Moscow,£9.45m,in,Winter,9.45,859,Sir Alex Ferguson,Scottland,no,1,66.00%,2.18,0.04,0
+Netherlands,edwin van der sar,Manchester United,2005,Goalkeeper,Fulham,£3.60m,in,Summer,3.6,3375,Sir Alex Ferguson,Scottland,no,1,66.00%,2.18,0.04,0
+Ireland,liam miller,Manchester United,2004,Central Midfield,Celtic,Free transfer,in,Summer,0,265,Sir Alex Ferguson,Scottland,no,1,58.00%,2.03,0.04,0
+England,alan smith,Manchester United,2004,Central Midfield,Leeds,£8.10m,in,Summer,8.1,2038,Sir Alex Ferguson,Scottland,no,1,58.00%,2.03,0.04,0
+England,wayne rooney,Manchester United,2004,Attacking Midfield,Everton,£33.30m,in,Summer,33.3,2185,Sir Alex Ferguson,Scottland,no,1,58.00%,2.03,0.04,0
+Argentina ,gabriel heinze,Manchester United,2004,Centre-Back,Paris SG,£9.00m,in,Summer,9,2287,Sir Alex Ferguson,Scottland,no,1,58.00%,2.03,0.04,0
+France,david bellion,Manchester United,2003,Centre-Forward,Sunderland,£2.70m,in,Summer,2.7,457,Sir Alex Ferguson,Scottland,no,1,61.00%,1.97,0.04,0
+Brazil,jose kleberson,Manchester United,2003,Central Midfield,Atlético-PR,£7.74m,in,Summer,7.74,791,Sir Alex Ferguson,Scottland,no,1,61.00%,1.97,0.04,0
+France,louis saha,Manchester United,2003,Centre-Forward,Fulham,£15.75m,in,Winter,15.75,862,Sir Alex Ferguson,Scottland,no,1,61.00%,1.97,0.04,0
+Cameroon,eric djemba djemba,Manchester United,2003,Defensive Midfield,FC Nantes,£4.05m,in,Summer,4.05,886,Sir Alex Ferguson,Scottland,no,1,61.00%,1.97,0.04,0
+Portugal,cristiano ronaldo,Manchester United,2003,Left Winger,Sporting CP,£17.10m,in,Summer,17.1,1548,Sir Alex Ferguson,Scottland,no,1,61.00%,1.97,0.04,0
+United States,tim howard,Manchester United,2003,Goalkeeper,MetroStars,£2.88m,in,Summer,2.88,2790,Sir Alex Ferguson,Scottland,no,1,61.00%,1.97,0.04,0
+Spain,ricardo,Manchester United,2002,Goalkeeper,Real Valladolid,£2.00m,in,Summer,2,45,Sir Alex Ferguson,Scottland,no,1,66.00%,2.18,0.04,0
+England,rio ferdinand,Manchester United,2002,Centre-Back,Leeds,£41.40m,in,Summer,41.4,2437,Sir Alex Ferguson,Scottland,no,1,66.00%,2.18,0.04,0
+Uruguay,diego forlan,Manchester United,2001,Centre-Forward,Independiente,£9.90m,in,Winter,9.9,52,Sir Alex Ferguson,Scottland,no,1,63.00%,2.03,0.04,0
+Northern Ireland,roy carroll,Manchester United,2001,Goalkeeper,Wigan,£2.70m,in,Summer,2.7,548,Sir Alex Ferguson,Scottland,no,1,63.00%,2.03,0.04,0
+Argentina ,juan sebastian veron,Manchester United,2001,Central Midfield,Lazio,£38.34m,in,Summer,38.34,2037,Sir Alex Ferguson,Scottland,no,1,63.00%,2.03,0.04,0
+France,laurent blanc,Manchester United,2001,Sweeper,Inter,Free transfer,in,Summer,0,2549,Sir Alex Ferguson,Scottland,no,1,63.00%,2.03,0.04,0
+Netherlands,ruud van nistelrooy,Manchester United,2001,Centre-Forward,PSV Eindhoven,£25.65m,in,Summer,25.65,2730,Sir Alex Ferguson,Scottland,no,1,63.00%,2.03,0.04,0
+France,fabien barthez,Manchester United,2000,Goalkeeper,Monaco,£10.53m,in,Summer,10.53,2675,Sir Alex Ferguson,Scottland,no,1,63.00%,2.11,0.04,0
+Scottland,andy goram,Manchester United,2000,Goalkeeper,Motherwell FC,Loan,in,Winter,0,124,Sir Alex Ferguson,Scottland,yes,1,63.00%,2.11,0.04,1
+Italy,massimo taibi,Manchester United,1999,Goalkeeper,AC Venezia 1907,Free transfer,in,Summer,0,360,Sir Alex Ferguson,Scottland,no,1,74.00%,2.39,0.04,0
+South Africa,quinton fortune,Manchester United,1999,Central Midfield,Atlético Madrid,£2.03m,in,Winter,2.03,370,Sir Alex Ferguson,Scottland,no,1,74.00%,2.39,0.04,0
+Austria,mark bosnich,Manchester United,1999,Goalkeeper,Aston Villa,Free transfer,in,Summer,0,1875,Sir Alex Ferguson,Scottland,no,1,74.00%,2.39,0.04,0
+France,mikael silvestre,Manchester United,1999,Centre-Back,Inter,£5.13m,in,Summer,5.13,2721,Sir Alex Ferguson,Scottland,no,1,74.00%,2.39,0.04,0
+Sweden,jesper blomqvist,Manchester United,1998,Left Midfield,AC Parma,£6.30m,in,Summer,6.3,1635,Sir Alex Ferguson,Scottland,no,1,58.00%,2.08,0.04,0
+Netherlands,jaap stam,Manchester United,1998,Centre-Back,PSV Eindhoven,£15.30m,in,Summer,15.3,2524,Sir Alex Ferguson,Scottland,no,1,58.00%,2.08,0.04,0
+Trinidad and Tobago,dwight yorke,Manchester United,1998,Centre-Forward,Aston Villa,£17.33m,in,Summer,17.33,2876,Sir Alex Ferguson,Scottland,no,1,58.00%,2.08,0.04,0
+England,ben thornley,Manchester United,1997,Forward,Huddersfield,-,in,Summer,0,98,Sir Alex Ferguson,Scottland,no,1,61.00%,2.03,0.04,0
+Norway,henning berg,Manchester United,1997,Right-Back,Blackburn,£6.75m,in,Summer,6.75,2233,Sir Alex Ferguson,Scottland,no,1,61.00%,2.03,0.04,0
+England,teddy sheringham,Manchester United,1997,Centre-Forward,Spurs,£4.77m,in,Summer,4.77,2516,Sir Alex Ferguson,Scottland,no,1,61.00%,2.03,0.04,0
